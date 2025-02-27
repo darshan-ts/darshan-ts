@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)]
+![MasterHead](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 <h1 align="center">Hi 👋, I'm Darshan T S</h1>
 <h3 align="center">A passionate SQA Professional an Automation Enthusiast from India, hungry to learn, meticulous, and easily adaptable. I help projects with Manual and Automation testing. As a Software Test Engineer, I apply my software testing and quality assurance skills to ensure the delivery of high-quality products and services.</h3>
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Manual and Automation**
+- 🔭 I’m currently working on **Manual and Automation Testing**
 
-- 🌱 I’m currently learning **Flutter and Native app development**
+- 🌱 I’m currently learning **Flutter and Native App Development**
 
-- 💬 Ask me about **Test Automation | UI+API+Mobile | Java | Python | Selenium | Rest assured | Appium | JavaScript | Playwright**
+- 💬 Ask me about **Test Automation | Web + API + Mobile | Java | Python | Selenium | Rest assured | Appium | JavaScript | Playwright**
 
-- 📫 How to reach me **darshan.thippeswamy94@gmail.com**
+- 📫 How to reach me **darshants.1494@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
